@@ -25,4 +25,4 @@ const user = usersRepository.create({
     }
 }
 
-export {UserController}; 
+export {UserController};  
